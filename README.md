@@ -18,7 +18,7 @@ Python Program to Display Calendar
 ```sh
 #1st we have to import Calendar Library
 
-import calendar       #must be small letters because they are key words in python
+import calendar       #import must be small letters because it is key word in python
 
 #Now we have to Enter the month and year that we want in input(in python console) for that
 
